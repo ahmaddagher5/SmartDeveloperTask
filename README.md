@@ -13,4 +13,5 @@ Task 2: The solution is written in sql file with explainations as comments.
 If you have any doubt of inquiry, kindly contact me.
 
 Regards
+
 Ahmed Yusuf
